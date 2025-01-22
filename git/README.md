@@ -1,0 +1,3 @@
+monday
+tue
+thur
