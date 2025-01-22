@@ -1,3 +1,5 @@
 monday
 tue
-thur
+thu
+
+r
